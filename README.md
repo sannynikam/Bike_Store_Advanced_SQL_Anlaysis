@@ -26,14 +26,17 @@ raw transactional data into actionable insights that can support data-driven dec
 
 ### 📁 Project Files Included :
 
-- **bike_store_relational_database.png :**
+- **Bike_Store_Relational_Database.png :**
      Creates the database schema, tables, primary keys, and foreign key relationships.
 
-- **bike_store_analysis_schema.sql :**
+- **Bike_Store_Analysis_Schema.sql :**
      This file contaion structure of an tables.
 
 - **Bike_Store_Analysis.sql :**
     This file contains business questions and SQL queries for sales analysis.
+
+- **Bike_Store_Analysis_Output :**
+    This file contain output of analysis queries.
 
 - **Bike_Store_Dataset :**
      Raw data files used for importing data into Workbench tables:
